@@ -45,7 +45,7 @@ spring.jpa.show-sql = true
 ```
 
 ### 第二步：验证freemarker
-UserController
+TestController
 ```bash
 package com.example.demo;
 import org.springframework.stereotype.Controller;
